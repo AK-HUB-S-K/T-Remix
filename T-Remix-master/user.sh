@@ -9,7 +9,7 @@ echo " "
 
 echo "toilet -f slant '           $varbanner'  -F gay | lolcat" > t-ban.txt
 
-echo -e "\e[33mEnter Your Terminal Name(e.g. root@AK) \e[32m  \n\n"
+echo -e "\e[33mEnter Your Terminal Name(e.g. root@ak) \e[32m  \n\n"
 read varterm
 
 echo " " 
