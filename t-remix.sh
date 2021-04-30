@@ -18,7 +18,7 @@ apt-get upgrade -y
  #installing python if not installed ;if install null
 apt-get install python -y
 #installing cmatrix
-pkg install cmatrix -y
+apt-get install cmatrix -y
 #packing up figlet
 apt-get install figlet -y
 #Installing ruby
