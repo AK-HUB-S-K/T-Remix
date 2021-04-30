@@ -17,6 +17,8 @@ apt-get update -y
 apt-get upgrade -y
  #installing python if not installed ;if install null
 apt-get install python -y
+#installing cmatrix
+pkg install cmatrix -y
 #packing up figlet
 apt-get install figlet -y
 #Installing ruby
@@ -37,7 +39,7 @@ echo " "
 echo " "
 echo "
 
-                              WELCOME TO AK HUB TOOLS
+                ══════════════ WELCOME TO AK HUB TOOLS ══════════════   
                 ████████╗      ██████╗ ███████╗███╗   ███╗██╗██╗  ██╗
                 ╚══██╔══╝      ██╔══██╗██╔════╝████╗ ████║██║╚██╗██╔╝
 	           ██║   █████╗██████╔╝█████╗  ██╔████╔██║██║ ╚███╔╝
@@ -49,7 +51,7 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡ AJAY O S ♡¸.•* ] ───────────────>            
+       ═══════════════════════[ Re-Coded by =*•.¸♡ AJAY O S ♡¸.•* ]═══════════════════════         
                                                                " |lolcat
 
 
@@ -126,14 +128,13 @@ echo " "
 echo " "
 echo " "
 
-echo -e "\033[1;32m﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m  "   
+echo -e "\033[1;32m═════════════════════════════════════════ \033[m  "   
 echo -e "\033[1;33m[*]Please wait \e[m "
 echo -e "\033[1;33m[*]checking installtion \e[m "
 echo -e "\033[1;33m[*]system ok -- CHECKED BY AJAY O S \e[m "
-echo -e "\033[1;33m[*]setting termux as a real hacker \e[m"
 echo FINISHED !
 echo -e "\033[1;32m                                                             
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m "
+═════════════════════════════════════════ \033[m "
 sleep 4.0
 
 bash user.sh
@@ -171,7 +172,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ AJAY O S  ♡¸.•* ] ───────────────>              
+       ═══════════════════════[Re-Coded by *•.¸♡ AJAY O S  ♡¸.•* ]═══════════════════════           
                             " |lolcat
 
 echo " "
